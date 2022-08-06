@@ -17,29 +17,21 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=appleAngels) -->
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=appleAngels&theme=dark&show_icons=true">](https://metrics.lecoq.io/appleAngels#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=appleAngels&show_icons=true">](https://metrics.lecoq.io/appleAngels#gh-light-mode-only)
+- :hammer_and_pick : Python / TypeScript / Vue
+- System : MacOS ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+- Tools : ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+- Browser : ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+  ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 
+- Working : <span > <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=React" /> <img src="https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=Vue&logoColor=white" /> <img src="https://img.shields.io/badge/-go-1572B6?style=flat-square&logo=go" /> </span>
 
+<!-- - <div align=""> <img src="https://visitor-badge.glitch.me/badge?page_id=appleAngels" /> </div> -->
 
--   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
--   :system: MacOS / Windows / Linux
--   :language: 
+- Learning : <span> <img src="https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=go" /> </span> <img src="https://img.shields.io/badge/-python-oringe?style=flat-square&logo=python" /> </span>
 
+<!-- <div align="left"> <img src="https://metrics.lecoq.io/appleAngels?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=appleAngels&theme=dark&show_icons=true&hide_border=true">](https://metrics.lecoq.io/appleAngels#gh-dark-mode-only)
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=appleAngels&show_icons=true&hide_border=true">](https://metrics.lecoq.io/appleAngels#gh-light-mode-only)
 
-### languages
-
-
-
-
-### 前端技术栈
-- I use daily: <span > <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </span>
-
-- I working using: <span > <img src="https://img.shields.io/badge/-React-oringe?style=flat-square&logo=React" /> <img src="https://img.shields.io/badge/-Vue-E34F26?style=flat-square&logo=vue&logoColor=white" /> <img src="https://img.shields.io/badge/-ElementUI-1572B6?style=flat-square&logo=ElementUI" />  </span>
-
-- <div align=""> <img src="https://visitor-badge.glitch.me/badge?page_id=appleAngels" /> </div>
-
-
-
-<div align="" style="display: flex;justify-content: space-around;"> <img src="https://activity-graph.herokuapp.com/graph?username=appleAngels&theme=xcode" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appleAngels&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Apple's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appleAngels&layout=compact&hide_border=true&langs_count=10)
